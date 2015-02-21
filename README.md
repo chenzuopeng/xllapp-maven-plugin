@@ -4,7 +4,7 @@
 
 <p><B>插件安装:</B></p>
 
-<p>setting.xml文件中添加源: http://61.154.164.33:8907/nexus/content/repositories/releases/</p>
+<p>setting.xml文件中添加插件源: http://61.154.164.33:8907/nexus/content/repositories/releases/</p>
 
 <p>pom.xml文件中添加如下内容:</p>
 
